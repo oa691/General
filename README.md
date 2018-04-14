@@ -1,1 +1,1 @@
-# Uploaded homework data as part of taking courses at NYU.  
+# Uploading various datasets and ipython files as part of taking course work.
